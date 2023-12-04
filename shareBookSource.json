@@ -1,4 +1,5 @@
-{
+[
+    {
     "bookSourceComment": "23.9.6\n江苏三网都打不开，需要梯子\n备用：https://www.guolu88.cc",
     "bookSourceGroup": "1005个",
     "bookSourceName": "🎀果露小说",
@@ -56,3 +57,4 @@
     "searchUrl": "{{cookie.removeCookie(source.getKey())}}\nhttps://www.xguolu88.com/modules/article/search.php,{\n  \"body\": \"searchkey={{key}}&actionl=ogin\",\n  \"charset\": \"GBK\",\n  \"method\": \"POST\"\n}",
     "weight": 0
   }
+]
